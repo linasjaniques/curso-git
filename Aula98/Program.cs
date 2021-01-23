@@ -7,6 +7,7 @@ namespace Aula98
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Buenos dias");
         }
     }
 }
